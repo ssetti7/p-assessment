@@ -1,0 +1,17 @@
+.main-navigation.nav {
+  background-color: #660000; }
+  .main-navigation.nav a:hover {
+    color: #590000; }
+
+.section-contact-info .contact-info-element {
+  display: inline-block; }
+
+.section-contact-info .call-to span {
+  display: inline-block; }
+
+.section-showing-us {
+  background-image: url("../img/stephen-anderson-cummings.png");
+  position: relative; }
+  .section-showing-us form {
+    position: absolute;
+    right: 0; }
